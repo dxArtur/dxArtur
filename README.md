@@ -34,3 +34,8 @@
 
 
 <h2>and always improving.👾</h2>
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dxArtur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+-->
