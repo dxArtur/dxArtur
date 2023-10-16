@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="75">
 </em></p>
 
-🧑‍💻 Backend Developer | Quality Assurance | JavaScript | TypeScript | Node.js | Express | Jest
+🧑‍💻 Full-stack Developer | Quality Assurance | JavaScript | TypeScript | Node.js | Express | Jest
 
 🌟 Passionate about clean and efficient code and enthusiast in quality , I'm always on the lookout for challenges that allow me to create robust and scalable solutions. As a backend developer, my mission is to turn ideas into solid projects that drive startups or business success.
 
