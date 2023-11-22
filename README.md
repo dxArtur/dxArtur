@@ -5,14 +5,14 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="75">
 </em></p>
 
-🧑‍💻 Full-stack Developer | Quality Assurance | JavaScript | TypeScript | Node.js | Express | Jest
+🧑‍💻 Full-stack Developer | Quality Assurance | JavaScript | TypeScript | Node.js | Express | Jest | React | Nextjs
 
-🌟 Passionate about clean and efficient code and enthusiast in quality , I'm always on the lookout for challenges that allow me to create robust and scalable solutions. As a backend developer, my mission is to turn ideas into solid projects that drive startups or business success.
+🌟 Passionate about clean and efficient code and enthusiast in quality, I'm always on the lookout for challenges that allow me to create robust and scalable solutions. As a backend developer, my mission is to turn ideas into solid projects that drive startups or business success.
 
 💡 Skills:
    - Languages: JavaScript and TypeScript
    - Development of RESTful APIs
-   - Databases: MongoDB
+   - Databases: PostgreSQL, Prisma, MongoDB
    - Unit and Integration Testing
 
 🚀 I'm interested in studying development patterns and continuously improving my code with best practices, making it cleaner and more efficient. I plan to specialize in quality and software engineering.🔗 
@@ -27,9 +27,14 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="DA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="DA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="DA-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="DA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="DA-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="DA-jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="DA-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="DA-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="DA-Prisma" height="30" width="40" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
 </div>
 
 
