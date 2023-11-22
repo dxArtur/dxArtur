@@ -29,7 +29,6 @@
   <img align="center" alt="DA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="DA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="DA-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="DA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="DA-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="DA-jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="DA-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg">
