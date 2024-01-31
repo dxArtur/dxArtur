@@ -21,7 +21,9 @@
 <div>
   <a href = "mailto:daniel.arturjsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23933?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-artur-28a410219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a width=50 href="https://dxartur.github.io/my-portfolio/" target="_blank" style= " display: inline-block; padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px;">See My Portfolio</a>
   <a width=50 href="https://www.github.com/dxArtur/" target="_blank" follow me><img src="https://img.shields.io/github/followers/dxArtur?label=Follow%20me%20a%20github&style=social" style="width: 185px;">
+
 </div>
 <h4>🤖 Principal technologies:</h4>
 <div style="display: inline_block"><br>
