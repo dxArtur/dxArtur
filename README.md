@@ -1,18 +1,16 @@
-<h1>Hello World</h1>
-<h2>My name is Daniel Artur!</h2>
+<h2>Hello, i'm  Daniel Artur Full-stack software engineer</h2>
 <p><em>Degree in Analysis and Systems Development  at <a href="https://github.com/ifpb-cz-ads">IFPB</a> in Brazil
 
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="75">
 </em></p>
 
-🧑‍💻 Full-stack software engineer & Quality Assurance | TypeScript | JavaScript | Node.js | Express | Jest | React | Nextjs | React-Native
+<h4>🧑‍💻  My stack: | TypeScript | JavaScript | Node.js | Express | Jest | React | Nextjs | React-Native</h4>
 
-<h3>💻 Web and 📱 Mobile development</h3>
+<h3>💻🔛📱 Web and  Mobile development</h3>
 
 🌟 Passionate about clean and efficient code and enthusiast in quality, I'm always on the lookout for challenges that allow me to create robust and scalable solutions. As a backend developer, my mission is to turn ideas into solid projects that drive startups or business success.
 
-<h3>💡 My stack: React, React-Native, Typescript, Express and Node.js</h3>
-  <h4>    I can do anything.</h4>
+<h3>💡 I can do everything.</h3>
 
    - Development of RESTful APIs
    - Development of Mobile APPS
@@ -26,8 +24,9 @@
 <div>
   <a href = "mailto:daniel.arturjsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23933?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-artur-28a410219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a width=50 href="https://dxartur.github.io/my-portfolio/" target="_blank"><img src="https://img.shields.io/badge/See my portfolio-purple"></a>
-  <a width=50 href="https://www.github.com/dxArtur/" target="_blank" follow me><img src="https://img.shields.io/github/followers/dxArtur?label=Follow%20me%20a%20github&style=social" style="width: 185px;">
+  <a width=50 href="https://dxartur.github.io/portfolio/" target="_blank" follow me><img src="https://img.shields.io/badge/My%20portfolio-8A2BE2">
+  <a width=50 href="https://www.github.com/dxArtur/" target="_blank" follow me><img src="https://img.shields.io/github/followers/dxArtur?label=Follow%20me%20a%20github&style=social">
+  
 
 </div>
 <h4>🤖 Principal technologies:</h4>
